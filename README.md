@@ -15,8 +15,12 @@ Acknowledgments
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. 
 
             MEAN SQUARED ERROR
-Decision Tree Regressor    -  38036.16\n
-Random Forest Regressor      -   23395.28\n
-MLP Regressor (Neural Networks) - 44640.49\n
-Support Vector Regressor     -  77500.74\n
-Gradient Boosting Regressor  -  22259.65\n
+Decision Tree Regressor    -  38036.16
+
+Random Forest Regressor      -   23395.28
+
+MLP Regressor (Neural Networks) - 44640.49
+
+Support Vector Regressor     -  77500.74
+
+Gradient Boosting Regressor  -  22259.65
