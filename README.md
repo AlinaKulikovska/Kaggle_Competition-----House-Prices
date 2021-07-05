@@ -24,3 +24,6 @@ MLP Regressor (Neural Networks) - 44640.49
 Support Vector Regressor     -  77500.74
 
 Gradient Boosting Regressor  -  22259.65
+
+
+My score in this competition is 0.13555
